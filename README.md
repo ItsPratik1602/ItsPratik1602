@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsPratik1602&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikchinchawadkar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPratik1602&layout=compact&theme=tokyonight)
 
 ---
 
