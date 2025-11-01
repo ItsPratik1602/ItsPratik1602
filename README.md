@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Chinchawadkar</h1>
-<h3 align="center">Softeware Developer| Python Developer | Cloud Enthusiast ☁️</h3>
+<h3 align="center">Software Developer| Python Developer | Cloud Enthusiast ☁️</h3>
 
 ---
 
