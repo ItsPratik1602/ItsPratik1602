@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Chinchawadkar</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | Cloud Enthusiast ☁️</h3>
+<h3 align="center">Softeware Developer| Python Developer | Cloud Enthusiast ☁️</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (2022–2026)**  
-- 💻 Passionate about **Data Science, Machine Learning, and Backend Development**  
+- 💻 Passionate about ** Machine Learning, and Backend Development**  
 - 🌱 Currently learning **NLP, Cloud AI Services (AWS), and Model Deployment**  
 - 🧠 Interested in building **AI-powered and data-driven applications**  
 - 💬 Ask me about **Python, SQL, Flask, or Data Analysis**  
@@ -42,11 +42,6 @@
 
 ---
 
-### 📂 Featured Projects
-- 🧠 [Flipkart Review Sentiment Analysis](#)  
-  *Web scraping, NLP, VADER Sentiment Analysis, Flask Dashboard*  
-- 🍕 [Pizza Shop Management System](#)  
-  *Java, MySQL, JDBC, CRUD operations*
 
 ---
 
